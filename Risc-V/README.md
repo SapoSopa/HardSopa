@@ -1,8 +1,6 @@
-# Infraestrutura de Hardware - Projeto RISC-V Pipeline 🚀
+# Projeto RISC-V Pipeline 🚀
 
-Este repositório contém os arquivos base para o projeto da disciplina Infraestrutura de Hardware (IF674) no CIn-UFPE. O objetivo do projeto é implementar instruções em um processador RISC-V usando SystemVerilog.
-
----
+Este projeto contém os arquivos base para o projeto da disciplina, localizado no repositório [Projeto_IH_RISC-V](https://github.com/nathaliafab/Projeto_IH_RISC-V). O objetivo do projeto é implementar instruções em um processador RISC-V usando SystemVerilog.
 
 ## 📝 Instruções
 
@@ -16,7 +14,7 @@ As instruções a serem implementadas são as do conjunto RV32I, que é parte of
 | 4 | `ADD`     |     ✅     |   ✅   |     ✅     |
 | 5 | `AND`     |     ✅     |   ✅   |     ✅     |
 
-Seu objetivo é implementar as instruções restantes listadas abaixo:
+O objetivo é implementar as instruções restantes listadas abaixo:
 
 | # | Instrução | Implementada | Testada | Funcionando |
 |---|-----------|:-----------:|:-------:|:-----------:|
@@ -41,8 +39,3 @@ Seu objetivo é implementar as instruções restantes listadas abaixo:
 | 19 | `OR`      |      ✅     |    ✅    |      ✅      |
 | 20 | `LUI`     |      ✅     |    ✅    |      ✅      |
 | 21 | `HALT`    |      ✅     |    ✅    |      ✅      |
-
-## Grupo:
-Luiz Gustavo Pinheiro(lgpss),
-Henrique Cesar Higuino(hchhc),
-João Pedro Marinho(jpms3),
